@@ -8,7 +8,7 @@ export default function CallButton() {
         <div className="mt-6 flex flex-wrap justify-center gap-3">
             {/* Mobile: real call link */}
             <a
-                href="tel:+18325551234"
+                href="tel:+12813380302"
                 className="block sm:hidden px-6 py-3 border border-black text-black font-semibold rounded-none hover:bg-black hover:text-white transition-colors text-center"
             >
                 Book an Appointment
